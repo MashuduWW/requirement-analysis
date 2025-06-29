@@ -48,7 +48,7 @@ Validation ensures that the documented requirements accurately reflect stakehold
 Example: Stakeholders review the SRS for the hotel booking system to confirm that all necessary features, like cancellation policies, are included.
 
 
-### Why is Requirement Analysis Important
+### Why is Requirement Analysis Important?
 
 Requirement Analysis is a pivotal phase in the Software Development Lifecycle (SDLC) that ensures a software project aligns with stakeholder needs and project goals. Below are three key reasons why Requirement Analysis is critical, with detailed descriptions:
 
@@ -256,7 +256,7 @@ In a **booking management system**, a use case diagram might include:
 
 
 
-![alx-booking-uc.png](https://drive.google.com/file/d/1ySyEDHUs-MFQE4KTbYSu-vu4VyihYtV9/view?usp=sharing)
+![alx-booking-uc.png](https://drive.google.com/file/d/1ySyEDHUs-MFQE4KTbYSu-vu4VyihYtV9/view?usp=drive_link)
 
 
 
